@@ -8,3 +8,7 @@ Este proyecto solo se puede utilizar con fines educativos. El uso de este softwa
 Informe de análisis en Sandbox de la muestra LB3.exe (Lockbit) - LB3_exe_Malicious activity _ ANY_RUN - Malware Sandbox Online.7z
 
 Informe de análisis en Sandbox de la muestra ctrsys.exe (Lockbit) - ctrsys_exe_Malicious activity _ ANY_RUN - Malware Sandbox Online.7z
+
+Carga Maliciosa crtsys.exe - Muestra_crtsys_exe_Lockbit.zip
+
+Carga Maliciosa LB3.exe - Muestra_LB3_exe_Lockbit.zip
